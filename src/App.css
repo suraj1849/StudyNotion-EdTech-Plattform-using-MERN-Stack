@@ -24,7 +24,7 @@ body {
 }
 
 *::-webkit-scrollbar-thumb {
-  background-color: #afb2bf;
+  background-color: #ced3ec;
   border-radius: 10px;
   visibility: hidden;
 }
@@ -48,7 +48,7 @@ details > summary::-webkit-details-marker {
   width: 56px;
   height: 56px;
   border-radius: 50%;
-  border: 9px solid #f1f2ff;
+  border: 9px solid #c1c3d4;
   animation: spinner-bulqg1 0.8s infinite linear alternate,
     spinner-oaa3wk 1.6s infinite linear;
 }
